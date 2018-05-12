@@ -1,9 +1,13 @@
 _repo: Uusi-katakombi-ja-muita-kertoelmia_49702
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Hämeen-Anttila, V.
     gutenberg_agent_id: '45500'
     url: http://www.gutenberg.org/2009/agents/45500
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/69
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49702#Uusi-katakombi-ja-muita-kertoelmia
 gutenberg_issued: '2015-08-14'
 gutenberg_type: Text
 identifiers:
