@@ -31,5 +31,7 @@ language: fi
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Uusi katakombi ja muita kertoelmia
 url: http://www.gutenberg.org/ebooks/49702
